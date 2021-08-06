@@ -20,4 +20,4 @@
 
 
 :link: [Linkedin](https://www.linkedin.com/in/erison-cavalcante-9402a714a/) <br>
-![Snake animation](https://github.com/erison7596)
+![Snake animation](https://github.com/erison7596/erison7596/blob/output/github-contribution-grid-snake.svg)
