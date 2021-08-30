@@ -12,9 +12,9 @@
 
 ### Statistics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erison7596&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erison7596&show_icons=true&theme=tokyonight&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erison7596&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erison7596&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Useful Links
 
