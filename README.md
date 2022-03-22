@@ -4,7 +4,7 @@
 
 > - Brazilian
 > - Lives in Belo Jardim (PE)
-> - Graduating in Computer Engineering (UFPB)
+> - Graduating in Software Engineering (IFPE)
 > - Computer Technical (IFPE)
 
 
