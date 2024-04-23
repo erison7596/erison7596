@@ -12,7 +12,7 @@
 
   > - 👨‍💻 Estudante Pesquisador no **Grupo Moura**
   > 
-> - 🌱 Atualmente estou aprendendo sobre **Typescript, Supabase, AWS**
+> - 🌱 Atualmente estou aprendendo sobre **Typescript, Next.Js**
   > 
 > - 🚀 Estudante de Engenharia de Software, 9° semestre.
  </div>
