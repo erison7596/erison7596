@@ -14,7 +14,7 @@
   > 
 > - 🌱 Atualmente estou aprendendo sobre **Typescript, Next.Js**
   > 
-> - 🚀 Estudante de Engenharia de Software, 9° semestre.
+> - 🚀 Estudante de Engenharia de Software, 5° semestre.
  </div>
  
 <div align="center"> 
