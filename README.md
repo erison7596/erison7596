@@ -10,11 +10,11 @@
 
 <div align="left">
 
-  > - 👨‍💻 Estudante Pesquisador no **Grupo Moura**
+  > - 👨‍💻 Desenvolvedor Full Stack no **Grupo Moura**
   > 
-> - 🌱 Atualmente estou aprendendo sobre **Typescript, Next.Js**
+> - 🌱  Atualmente estou aprofundando meus conhecimentos em **Clean Architecture com .NET**
   > 
-> - 🚀 Estudante de Engenharia de Software, 5° semestre.
+> - 🚀 Estudante de Engenharia de Software, 6° semestre.
  </div>
  
 <div align="center"> 
