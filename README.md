@@ -12,9 +12,9 @@
 
   > - 👨‍💻 Desenvolvedor Full Stack no **Grupo Moura**
   > 
-> - 🌱  Atualmente estou aprofundando meus conhecimentos em **Clean Architecture com .NET**
+> - 🌱  Atualmente estou aprofundando meus conhecimentos em **Micro-Serviços com NODE**
   > 
-> - 🚀 Estudante de Engenharia de Software, 6° semestre.
+> - 🚀 Estudante de Engenharia de Software, 7° semestre.
  </div>
  
 <div align="center"> 
