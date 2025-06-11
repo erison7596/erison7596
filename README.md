@@ -12,7 +12,7 @@
 
   > - 👨‍💻 Desenvolvedor Full Stack no **Grupo Moura**
   > 
-> - 🌱  Atualmente estou aprofundando meus conhecimentos em **Micro-Serviços com NODE**
+> - 🌱  Atualmente estou aprofundando meus conhecimentos em **DevOps e Arquitetura**
   > 
 > - 🚀 Estudante de Engenharia de Software, 7° semestre.
  </div>
