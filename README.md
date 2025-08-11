@@ -14,7 +14,7 @@
   > 
 > - 🌱  Atualmente estou aprofundando meus conhecimentos em **DevOps e Arquitetura**
   > 
-> - 🚀 Estudante de Engenharia de Software, 7° semestre.
+> - 🚀 Estudante de Engenharia de Software, 8° semestre.
  </div>
  
 <div align="center"> 
